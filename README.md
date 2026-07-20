@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
   <!-- Dynamic Modern Waving Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=NEXUS%20AI&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
@@ -138,3 +138,4 @@ This repository is built strictly for **Educational and Research Purposes**. The
   <!-- Animated Waving Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer&animation=twinkling" width="100%"/>
 </div>
+](https://dipastebin.web.id/t0ewm43dh)
