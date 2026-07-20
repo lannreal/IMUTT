@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Dynamic Modern Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1|0,2|8B5CF6,4F46E5&height=220&section=header&text=NEXUS%20AI&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=NEXUS%20AI&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
   <!-- Animated Typing Subtitle -->
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=2000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Ultra-Professional+DeepAI+Reverse-Engineering+Client;Bypass+Token+Limitations+Dynamically;Unlock+HD+Image+Generation+%26+Vision+AI;Seamless+Integration+for+CLI+%26+REST+API;Full-Stack+AI+Weaponized+Framework" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=2000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Ultra-Professional+DeepAI+Reverse-Engineering+Client;Bypass+Token+Limitations+Dynamically;Unlock+HD+Image+Generation+%26+Vision+AI;Seamless+Integration+for+CLI+%26+REST+API;Full-Stack+AI+Weaponized+Framework" alt="Typing SVG" />
   </a>
 
   <!-- Animated Badges -->
@@ -17,12 +17,12 @@
   <br>
 
   <!-- Sleek Modern Tech GIF -->
-  <img src="https://i.pinimg.com/originals/a2/38/c2/a238c227181cff72f3eef4a64095400d.gif" width="700" style="border-radius:12px; box-shadow: 0px 0px 25px rgba(0, 240, 255, 0.4);" alt="Modern AI Cyber Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRhNTFhMjI5YTg4NDNjNWEzNmNjMWJkNjJiZjM1YmI3ODU4YWM4YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif" width="600" style="border-radius:12px; box-shadow: 0px 0px 25px rgba(139, 92, 246, 0.4);" alt="Modern AI Cyber Animation">
 </div>
 
 <!-- Animated Glowing Line Separator -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 <details open>
@@ -37,7 +37,7 @@
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ## 🔮 System Overview
@@ -120,7 +120,7 @@ node dp.js --api
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
 ## ⚠️ Disclaimer
@@ -132,9 +132,9 @@ This repository is built strictly for **Educational and Research Purposes**. The
 <div align="center">
   <br>
   <!-- Animated Creator Title -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=25&pause=3000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Designed+%26+Engineered+by+lanncodex;Open+Source+Excellence" alt="Creator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=25&pause=3000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Designed+%26+Engineered+by+lanncodex;Open+Source+Excellence" alt="Creator" />
   
   <br>
   <!-- Animated Waving Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1|0,2|8B5CF6,4F46E5&height=150&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer&animation=twinkling" width="100%"/>
 </div>
