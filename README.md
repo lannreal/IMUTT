@@ -1,17 +1,17 @@
 <div align="center">
   <!-- Dynamic Modern Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=NEXUS%20AI&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1|0,2|8B5CF6,4F46E5&height=220&section=header&text=NEXUS%20AI&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
   <!-- Animated Typing Subtitle -->
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=2000&color=00F0FF&center=true&vCenter=true&width=800&lines=Ultra-Professional+DeepAI+Reverse-Engineering+Client;Bypass+Token+Limitations+Dynamically;Unlock+HD+Image+Generation+%26+Vision+AI;Seamless+Integration+for+CLI+%26+REST+API;Full-Stack+AI+Weaponized+Framework" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=2000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Ultra-Professional+DeepAI+Reverse-Engineering+Client;Bypass+Token+Limitations+Dynamically;Unlock+HD+Image+Generation+%26+Vision+AI;Seamless+Integration+for+CLI+%26+REST+API;Full-Stack+AI+Weaponized+Framework" alt="Typing SVG" />
   </a>
 
   <!-- Animated Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Runtime-Node.js%20v16+-00F0FF.svg?style=for-the-badge&logo=node.js&logoColor=black">
+    <img src="https://img.shields.io/badge/Runtime-Node.js%20v16+-8B5CF6.svg?style=for-the-badge&logo=node.js&logoColor=black">
     <img src="https://img.shields.io/badge/Architecture-CLI%20%26%20REST%20Daemon-111111.svg?style=for-the-badge">
-    <img src="https://img.shields.io/badge/Status-Fully%20Weaponized-00F0FF.svg?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Status-Fully%20Weaponized-8B5CF6.svg?style=for-the-badge">
   </p>
   
   <br>
@@ -22,7 +22,7 @@
 
 <!-- Animated Glowing Line Separator -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 </p>
 
 <details open>
@@ -37,7 +37,7 @@
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 </p>
 
 ## 🔮 System Overview
@@ -120,7 +120,7 @@ node dp.js --api
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
 </p>
 
 ## ⚠️ Disclaimer
@@ -132,9 +132,9 @@ This repository is built strictly for **Educational and Research Purposes**. The
 <div align="center">
   <br>
   <!-- Animated Creator Title -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=25&pause=3000&color=00F0FF&center=true&vCenter=true&width=800&lines=Designed+%26+Engineered+by+lanncodex;Open+Source+Excellence" alt="Creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=25&pause=3000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Designed+%26+Engineered+by+lanncodex;Open+Source+Excellence" alt="Creator" />
   
   <br>
   <!-- Animated Waving Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1|0,2|8B5CF6,4F46E5&height=150&section=footer&animation=twinkling" width="100%"/>
 </div>
