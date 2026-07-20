@@ -1,129 +1,127 @@
 <div align="center">
+  <!-- Dynamic Modern Waving Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=NEXUS%20AI&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+
+  <!-- Animated Typing Subtitle -->
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=2000&color=00F0FF&center=true&vCenter=true&width=800&lines=Ultra-Professional+DeepAI+Reverse-Engineering+Client;Bypass+Token+Limitations+Dynamically;Unlock+HD+Image+Generation+%26+Vision+AI;Seamless+Integration+for+CLI+%26+REST+API;Full-Stack+AI+Weaponized+Framework" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
+  <!-- Sleek Modern Tech GIF (Neural Network/Data) -->
+  <img src="https://i.pinimg.com/originals/a2/38/c2/a238c227181cff72f3eef4a64095400d.gif" width="700" style="border-radius:12px; box-shadow: 0px 0px 25px rgba(0, 240, 255, 0.4);" alt="Modern AI Cyber Animation">
+
+  <br><br>
   
-  <br>
-  <h1>⚡ NEXUS AI</h1>
-  
-  <!-- Subtle, professional typing animation -->
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&pause=2000&color=A9A9A9&center=true&vCenter=true&width=600&lines=Advanced+DeepAI+Reverse-Engineering+Client;Bypassing+Token+Limitations+Dynamically;Providing+HD+Image+Generation+%26+Vision+AI;Built+for+CLI+and+REST+API+Integrations" alt="Typing SVG" /></a>
-
-  <br>
-
-  <!-- Clean, professional badges -->
-  <a href="#"><img src="https://img.shields.io/badge/Runtime-Node.js%20v16+-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Architecture-CLI%20%7C%20REST%20API-007ACC?style=flat-square" alt="Architecture"></a>
-  <a href="#"><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Status-Active%20%26%20Stable-success?style=flat-square" alt="Status"></a>
-
+  <!-- Animated Tech Badges -->
+  <img src="https://img.shields.io/badge/Runtime-Node.js%20v16+-00F0FF.svg?style=for-the-badge&logo=node.js&logoColor=black">
+  <img src="https://img.shields.io/badge/Architecture-CLI%20%26%20REST%20Daemon-111111.svg?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Fully%20Weaponized-00F0FF.svg?style=for-the-badge">
 </div>
 
 <br>
 
----
+<!-- Animated Glowing Line Separator -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## 📖 Overview
+<div align="left">
+  <!-- Animated Section Title -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=28&pause=1000&color=00F0FF&vCenter=true&width=500&lines=System+Overview" alt="Overview" />
+</div>
 
-**NEXUS AI** (`dp.js`) is an advanced, unofficial client and backend server for DeepAI. Engineered with dynamic token-generation algorithms, it seamlessly bypasses standard platform limitations, granting developers untethered access to premium AI models, high-definition image generation, and native Vision AI capabilities.
+**NEXUS AI** (`dp.js`) represents the pinnacle of unofficial AI clients. Engineered with a dynamic token-generation algorithm, it seamlessly bypasses standard platform limitations. This allows you to effortlessly scale and access **Premium AI Models**, **High-Definition Image Synthesis**, and native **Vision AI capabilities**. 
 
-Designed with enterprise-grade stability, NEXUS AI operates in two robust environments:
-1. **Interactive CLI** for personal terminal usage with graceful fallback rendering.
-2. **REST API Daemon** for seamless integration into third-party web backends, Discord bots, and mobile applications.
+Operates natively in two professional environments:
+1. **Interactive CLI** - Sleek terminal-based interface with graceful rendering.
+2. **REST API Daemon** - Headless backend service designed for enterprise integration.
 
----
+<!-- Animated Glowing Line Separator -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## ✨ Core Features
+<div align="left">
+  <!-- Animated Section Title -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=28&pause=1000&color=00F0FF&vCenter=true&width=500&lines=Core+Architecture+%26+Features" alt="Features" />
+</div>
 
-| Feature | Description | Status |
+| Capability | Technical Description | Status |
 | :--- | :--- | :---: |
-| 🛡️ **Dynamic Token Generation** | Reverse-engineered `generateIslandKey` payload that generates a fresh cryptographic signature per request, preventing 401/403 blocks. | ✅ |
-| 🖼️ **HD Image Synthesis** | Programmatic access to DeepAI's High-Definition Text-to-Image pipeline with Negative Prompt support. | ✅ |
-| 🧠 **Premium Neural Chat** | Bypassed access to 10 world-class LLMs (including GPT-4, Llama 3.3, and DeepSeek) with full conversation history retention. | ✅ |
-| 👁️ **Vision AI (Image Input)** | Native file-upload support mapped to Vision-capable models for deep visual analysis. | ✅ |
-| 🔌 **Headless REST API** | A built-in Express.js daemon mapping complex CLI flows into standard HTTP JSON endpoints. | ✅ |
+| 🛡️ **Dynamic Signature** | Reverse-engineered `generateIslandKey` payload executing fresh cryptographic token generation per request. | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="20"/> |
+| 🖼️ **HD Synthesis** | Programmatic access to High-Definition Text-to-Image pipeline with `Negative Prompt` processing. | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="20"/> |
+| 🧠 **Neural Chat Bypass** | Intercepts and unlocks 10 world-class LLMs (including DeepSeek V3.2 & GPT-5 Nano) retaining history context. | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="20"/> |
+| 👁️ **Vision Analysis** | Native binary file-upload integration securely linked to Vision-capable LLMs. | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="20"/> |
+| 🔌 **API Daemon** | Embedded Express.js engine translating CLI execution into standard JSON HTTP routes. | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="20"/> |
 
----
+<!-- Animated Glowing Line Separator -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## 📦 Supported Models
+<div align="left">
+  <!-- Animated Section Title -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=28&pause=1000&color=00F0FF&vCenter=true&width=500&lines=Supported+Models+Matrix" alt="Models" />
+</div>
 
-The architecture currently supports and intercepts 10 distinct AI models. Models tagged with `[Vision]` natively support image attachments and visual reasoning.
+Models augmented with the **Vision** protocol natively parse image attachments.
 
-- `standard` (Default)
+- `standard`
 - `deepseek-v3.2`
 - `gpt-oss-120b`
-- `llama-4-scout` **`[Vision]`**
+- `llama-4-scout` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eyes.png" width="25"/>
 - `llama-3.3-70b-instruct`
 - `llama-3.1-8b-instant`
-- `gemini-2.5-flash-lite` **`[Vision]`**
-- `gemma-4` **`[Vision]`**
+- `gemini-2.5-flash-lite` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eyes.png" width="25"/>
+- `gemma-4` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eyes.png" width="25"/>
 - `gpt-4.1-nano`
-- `gpt-5-nano` **`[Vision]`**
+- `gpt-5-nano` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eyes.png" width="25"/>
 
----
+<!-- Animated Glowing Line Separator -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## 🚀 Usage Guide
+<div align="left">
+  <!-- Animated Section Title -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=28&pause=1000&color=00F0FF&vCenter=true&width=500&lines=Deployment+%26+Usage" alt="Deployment" />
+</div>
 
-### 1. Interactive CLI Mode
-
-Launch the unified CLI interface directly from your terminal:
+### 💻 Command Line Interface
+Launch the unified CLI matrix natively:
 ```bash
 node dp.js
 ```
-*Select Module 1 for Image Generation, Module 2 for API Server, or Module 3 for Neural Chat.*
 
-> **💡 Pro-Tip: Using Vision AI in CLI**
-> To analyze a local image, select a `[Vision]` supported model and prepend your prompt with the `[image]` tag followed by the absolute file path:
+> **💡 Integrating Vision:** 
+> Prepend `[image]` alongside the absolute path to inject visual data into supported models:
 > ```text
-> USER  > [image] "C:\Path\To\Your\Image.png" Please analyze the contents of this image.
+> USER  > [image] "C:\Path\To\Your\Image.png" Please analyze this document.
 > ```
 
-<br>
-
-### 2. REST API Daemon
-
-Run the architecture as a headless background server:
+### 🌐 REST API Daemon
+Deploy the engine as a headless HTTP service (`http://localhost:3000`):
 ```bash
 node dp.js --api
 ```
-The daemon will initialize and listen on `http://localhost:3000`.
 
-#### A. Generate Image (`POST /api/generate`)
+#### Vision + Chat Route (`POST /api/chat`)
 ```json
 {
-  "prompt": "Cyberpunk city at night, neon lights, highly detailed 4k",
-  "isQuality": true,
-  "style": "hd",
-  "negativePrompt": "blurry, distorted, low resolution"
-}
-```
-
-#### B. Text Completion (`POST /api/chat`)
-```json
-{
-  "model": "deepseek-v3.2",
-  "messages": [
-    { "role": "user", "content": "Explain quantum computing in simple terms." }
-  ]
-}
-```
-
-#### C. Vision AI Analysis (`POST /api/chat`)
-*Note: Ensure your image is uploaded via the `/chat_attachments/upload` protocol to obtain the UUID prior to executing this request.*
-```json
-{
-  "model": "gemini-2.5-flash-lite",
+  "model": "gemma-4",
   "messages": [
     { 
       "role": "user", 
-      "content": "Extract the text from this document.",
+      "content": "Describe the attached data.",
       "attachment_uuids": ["df99118c-8bdb-4bd9-8bb5-f783e27db59a"]
     }
   ]
 }
 ```
 
----
+<!-- Animated Glowing Line Separator -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
   <br>
-  <p><b>Designed & Engineered by lanncodex</b></p>
-  <i>Strictly for Educational and Research Purposes. Use Responsibly.</i>
+  <!-- Animated Creator Title -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=30&pause=3000&color=00F0FF&center=true&vCenter=true&width=800&lines=Designed+%26+Engineered+by+lanncodex;Strictly+for+Educational+%26+Research+Purposes" alt="Creator" />
+  
+  <br>
+  <!-- Animated Waving Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=150&section=footer&animation=twinkling" width="100%"/>
 </div>
